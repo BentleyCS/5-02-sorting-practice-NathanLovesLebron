@@ -1,6 +1,5 @@
 import random
 
-import items
 
 
 def bubbleSort(items:list):
